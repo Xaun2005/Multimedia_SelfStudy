@@ -1,0 +1,31 @@
+1
+00:00:14,000 --> 00:00:14,800
+Write my essay
+
+2
+00:00:14,800 --> 00:00:15,600
+Write my code
+
+3
+00:00:15,600 --> 00:00:16,400
+Write my email
+
+4
+00:00:16,400 --> 00:00:17,200
+Tell me what to think
+
+5
+00:00:17,200 --> 00:00:21,000
+Tell me who I am
+
+6
+00:00:23,000 --> 00:00:26,000
+If AI can create anything, / what is left for us to create?
+
+7
+00:00:56,000 --> 00:00:59,000
+Humanity is the prompt.
+
+8
+00:00:59,000 --> 00:01:00,000
+The Last Prompt

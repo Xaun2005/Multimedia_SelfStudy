@@ -1,0 +1,33 @@
+# 貼到 ~/.hermes/config.yaml(或合併進既有設定)。
+# Key 放在 ~/.hermes/.env,不要寫在這裡,也不要 commit 進 repo。
+#
+# 重點:零付費 token 路徑 = 用「免費 / 本機」模型。三選一:
+
+providers:
+  # (A) 本機模型 —— 最乾淨的零付費路徑,無需任何 key
+  - id: local
+    type: openai
+    base_url: http://localhost:11434/v1      # Ollama OpenAI-compatible endpoint
+    key_env: OLLAMA_DUMMY_KEY                 # 本機通常不檢查,給個佔位即可
+
+  # (B) 免費雲端 —— 自願使用,需在報告揭露;仍屬零『付費』token
+  - id: openrouter
+    type: openai
+    base_url: https://openrouter.ai/api/v1
+    key_env: OPENROUTER_API_KEY
+
+models:
+  - id: local-small
+    provider: local
+    model: llama3.1:8b            # 換成你本機有的 model
+  - id: ds-free
+    provider: openrouter
+    model: deepseek/deepseek-chat-v3:free
+
+# 開發期建議先用便宜/免費 model 迭代,穩了再驗跨模型。
+default_model: ds-free
+
+# 讓 Hermes 直接掃描本 repo 的 agents/ 當 skills(請改成你本機的 absolute path)。
+skills:
+  external_dirs:
+    - E:/AI_Workspace/projects/MuliMedia_SelfStudy/final-agentic-video/agents

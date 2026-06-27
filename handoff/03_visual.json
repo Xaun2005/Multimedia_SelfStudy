@@ -1,0 +1,215 @@
+{
+  "_stage": "visual",
+  "topic": "The Last Prompt — 在 AI 時代,人不可被取代的創造與靈魂",
+  "core_intent": "AI 再強,無法取代人類的創造。真正決定世界方向的『最後一個 prompt』,是人類自己。",
+  "audience_hint": "對 AI 焦慮的一般觀眾、高中與大學生",
+  "goal": "以『Prompt 的升級與奪回』為唯一主軸:人把提示詞越交越多(交出工作 → 思考 → 自我)→ 斷電 → 人想起創造的『過程』是 AI 拿不走的 → 最後一個 prompt 回到人手上。",
+  "style": "踩拍剪輯;前段冷色數位、AI 冷靜優雅、混亂發生在人與環境;後段暖色人文;克制、寧少勿多。",
+  "platform": "16:9 橫式 MP4,55-65 秒",
+  "length_seconds": 60,
+  "structure": "Part1 (0-14s, 音樂 Voxel Revolution): 左右分割,左=舊工具、右=AI,3 組對比,AI 越佔越多;左邊人逐漸渙散、螢幕漸裂;AI 全程冷靜優雅不發瘋。Part2 (14-21s, 音樂最high): Prompt 升級失控,字卡 Write my essay → Write my code → Write my email → Tell me what to think → Tell me who I am → 只剩游標;人被螢幕包圍溶解,AI 不動。Part3 (21-24s): 關機音 → 全黑靜默 1-1.5s → 浮出營火(火=人類第一個創造)→ 字卡 'If AI can create anything, what is left for us to create?'。Part4 (24-56s, 音樂 Rains Will Fall): 呈現創造的『過程』而非成果——從火開始,磨損的石器、劃掉重寫的草稿、算到一半的公式、失敗的飛機原型、炸掉重來的火箭,穿插人的手在創造;挑 5-6 個最有力的。Part5 (56-60s): 音樂漸淡只剩營火聲;手放上鍵盤 → 字卡 'Humanity is the prompt.' → 黑 → 標題 'The Last Prompt'。",
+  "constraints": "與 AI/社會應用相關;主題避開 Lab 用過的『camera 廣告』與『AI 殺軟體對決』;素材自製或開放授權;音樂 Voxel Revolution / Rains Will Fall 為 Kevin MacLeod CC-BY,需在片尾與 README 標出處;圖片用公共領域(NASA、公共領域畫作)或自製;不虛構事實宣稱;本片字卡為主、幾乎無旁白(narration 多為空或註明 music only)。",
+  "project_title": "The Last Prompt — 在 AI 時代,人不可被取代的創造與靈魂",
+  "core_message": "AI 再強也無法取代人類創造的過程,那是人類最後的靈魂。",
+  "target_audience": [
+    "對 AI 焦慮的一般觀眾",
+    "高中與大學生"
+  ],
+  "video_length_seconds": 60,
+  "asset_policy": "self-made or openly licensed materials only",
+  "review_items": [
+    "length",
+    "truthfulness",
+    "copyright",
+    "portrait"
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "time_range": "0-4",
+      "purpose": "建立舊工具與 AI 的左右對比,AI 開始侵蝕人的工作空間",
+      "visual_plan": "左側冷色調舊工具(紙筆、計算機),右側 AI 介面優雅運作,螢幕邊界明確分割",
+      "narration": "(music: Voxel Revolution)",
+      "subtitle": "(無字卡)",
+      "shot_list": "16:9,分割線正中;左側冷藍光下舊紙筆與計算機堆疊,右側AI介面亮起,2秒靜止建立對比,第3-4秒AI方塊輕微擴張侵入,鏡頭微妙縮放強調分割線",
+      "asset_needs": "自製 AI 介面動態(冷藍背景、黑色浮窗、綠色網格) | 舊紙筆計算機靜物照(冷色打燈) | 分割線銳利動畫"
+    },
+    {
+      "scene_id": 2,
+      "time_range": "4-9",
+      "purpose": "第二組對比,AI 佔據更多空間,左邊人類開始渙散",
+      "visual_plan": "AI 方塊逐漸擴大侵佔左側,人影模糊、螢幕裂紋初現,冷藍光線主導",
+      "narration": "(music: Voxel Revolution)",
+      "subtitle": "(無字卡)",
+      "shot_list": "左右分割改 3:7,AI 佔更多,左側人影剪影開始模糊,螢幕邊角出現第一道龜裂,鏡頭向右推移暗示侵蝕,冷藍光線加強",
+      "asset_needs": "前景 AI 介面動態延續 | 後景人影模糊背影(自製或合成) | 螢幕龜裂特效(自製或免費 VFX)"
+    },
+    {
+      "scene_id": 3,
+      "time_range": "9-14",
+      "purpose": "第三組對比完成,AI 佔滿視野,人幾近消失,左邊完全裂開",
+      "visual_plan": "AI 介面填滿畫面,人的手指懸在空中無法觸及,螢幕大幅龜裂,冷色達到極致",
+      "narration": "(music: Voxel Revolution)",
+      "subtitle": "(無字卡)",
+      "shot_list": "AI 填滿 90%,左側人手指懸空(俯視構圖),螢幕佈滿龜裂,冷藍極致飽和,鏡頭推進到螢幕近距,手指與龜裂成焦點",
+      "asset_needs": "全畫面 AI 介面動態(數據流、程式碼滾動) | 手指懸空影片(自製真人手) | 龜裂特效疊層"
+    },
+    {
+      "scene_id": 4,
+      "time_range": "14-14.8",
+      "purpose": "Prompt 升級失控 - essay 卡",
+      "visual_plan": "字卡 Write my essay 浮現,游標閃爍,人影開始溶解為數位粒子,冷色數位背景,AI 冷靜無動",
+      "narration": "(music only)",
+      "subtitle": "Write my essay",
+      "shot_list": "字卡層白底黑字 Write my essay 正中出現,背景冷藍漸層,文字游標左下規律閃爍(每秒約0.5次),人影數位粒子化從邊界向中心溶解,0.8秒內節拍加速",
+      "asset_needs": "字卡排版(Write my essay 白底黑字) | 人影數位粒子溶解特效(自製 particle 或 Blender) | 游標閃爍動畫"
+    },
+    {
+      "scene_id": 5,
+      "time_range": "14.8-15.6",
+      "purpose": "Prompt 升級失控 - code 卡",
+      "visual_plan": "字卡 Write my code 疊上,游標加速閃爍,人影溶解更深,冷色數位背景,AI 冷靜無動",
+      "narration": "(music only)",
+      "subtitle": "Write my code",
+      "shot_list": "新字卡 Write my code 堆疊於前一張(透視不完全蓋住),游標閃爍2倍,人影粒子溶解加深(透明度約70%),背景由藍漸紫,0.8秒對應高頻拍點",
+      "asset_needs": "字卡排版(Write my code) | 堆疊透視效果 | 加速粒子溶解特效"
+    },
+    {
+      "scene_id": 6,
+      "time_range": "15.6-16.4",
+      "purpose": "Prompt 升級失控 - email 卡",
+      "visual_plan": "字卡 Write my email 疊上,游標加速閃爍,人影繼續溶解,冷色數位背景,AI 冷靜無動",
+      "narration": "(music only)",
+      "subtitle": "Write my email",
+      "shot_list": "字卡 Write my email 再疊,游標閃爍3倍快成中心焦點,人影粒子約50%透明,背景紫色加強,螢幕邊界高頻閃爍,0.8秒",
+      "asset_needs": "字卡排版(Write my email) | 高頻閃爍特效(自製邊界電光)"
+    },
+    {
+      "scene_id": 7,
+      "time_range": "16.4-17.2",
+      "purpose": "Prompt 升級失控 - think 卡",
+      "visual_plan": "字卡 Tell me what to think 疊上,游標加速閃爍,人影大幅溶解,冷色數位背景,AI 冷靜無動",
+      "narration": "(music only)",
+      "subtitle": "Tell me what to think",
+      "shot_list": "字卡 Tell me what to think 再疊,游標近極限頻率成唯一清晰元素,人影粒子約20%透明幾近消失,背景深紫黑,壓抑感,0.8秒節拍最高",
+      "asset_needs": "字卡排版(Tell me what to think) | 極限頻率閃爍動畫 | 深紫黑漸層背景"
+    },
+    {
+      "scene_id": 8,
+      "time_range": "17.2-21",
+      "purpose": "Prompt 升級失控 - who I am 卡,最高潮",
+      "visual_plan": "字卡 Tell me who I am 疊上,人影徹底消失,只有游標在黑暗中閃爍,冷色數位達到極致,AI 冷靜無動",
+      "narration": "(music only)",
+      "subtitle": "Tell me who I am",
+      "shot_list": "字卡 Tell me who I am 終極疊於頂部,游標頻率定格極限,人影徹底消失,背景全黑只剩字卡與游標,3.8秒靜止高頻製造壓迫,最後0.3秒音樂突止與關機音視覺化",
+      "asset_needs": "字卡排版(Tell me who I am) | 純黑背景 | 游標定格脈動特效 | 關機音視覺化:光線快速熄滅(白閃後全黑)"
+    },
+    {
+      "scene_id": 9,
+      "time_range": "21-23",
+      "purpose": "關機與靜默,世界停頓",
+      "visual_plan": "關機音視覺化為光線熄滅,螢幕黑透,1.5 秒完全靜默與黑暗",
+      "narration": "(關機音)",
+      "subtitle": "(無字卡)",
+      "shot_list": "關機音伴隨,螢幕光線從邊界向中心抽吸消失(2秒),中央白點最後熄滅,隨後1.5秒完全黑暗與靜默,製造停頓張力",
+      "asset_needs": "關機視覺化特效(光線收縮動畫) | 靜默長鏡頭(無聲 black card)"
+    },
+    {
+      "scene_id": 10,
+      "time_range": "23-26",
+      "purpose": "營火浮現,人類創造的起源",
+      "visual_plan": "黑暗中營火漸亮、暖橙紅光線;字卡分兩行顯示:第一行 If AI can create anything,第二行 what is left for us to create",
+      "narration": "(silence)",
+      "subtitle": "If AI can create anything, / what is left for us to create?",
+      "shot_list": "黑暗中營火從下方漸亮(2秒),暖橙紅填滿,光影搖曳;字卡兩行白字,第一行 If AI can create anything 約1.5秒浮現,第二行 what is left for us to create 隨後,營火佔下方1/3,字卡居中,3秒",
+      "asset_needs": "營火漸亮動畫(自製真火或合成暖光) | 營火光影搖曳素材(高幀率火焰) | 字卡排版(If AI can create anything, / what is left for us to create?) | 黑轉暖色漸層過場"
+    },
+    {
+      "scene_id": 11,
+      "time_range": "26-32",
+      "purpose": "創造的過程一:磨損石器與劃掉的草稿",
+      "visual_plan": "營火光下,人的手磨製石器(石屑飛散),近景草稿紙劃掉、塗黑的痕跡,暖色調",
+      "narration": "(music: Rains Will Fall)",
+      "subtitle": "(無字卡)",
+      "shot_list": "暖橙背景,雙手雕刻石器(正面俯視),石屑飛散特寫,6秒,鏡頭緩推手部細節;左下疊草稿紙(透視,劃掉塗黑痕跡),人手在草稿上工作3秒,光線搖曳強化粗糙質感",
+      "asset_needs": "人手雕刻石器影片(自製慢鏡頭,石屑真實) | 草稿紙特寫(自製手寫劃掉) | 營火環境光(自製) | 光線搖曳 overlay"
+    },
+    {
+      "scene_id": 12,
+      "time_range": "32-38",
+      "purpose": "創造的過程二:失敗的計算與飛行實驗",
+      "visual_plan": "黑板上算到一半被擦掉的公式,人手推動模型飛機墜落,再起身重試,光影溫暖",
+      "narration": "(music: Rains Will Fall)",
+      "subtitle": "(無字卡)",
+      "shot_list": "黑板半算公式被人手擦掉(2秒),人轉身走向模型飛機(2秒),推動紙飛機起飛隨即墜落碎裂(1秒),人拾起破碎飛機重新組裝(2秒),多角度切換,6秒,暖橙光,象徵失敗也是創造一部份",
+      "asset_needs": "黑板公式影片(自製真人手擦) | 紙飛機測試影片(自製60fps,起飛+墜落+碎裂) | 人物轉身走動影片(自製) | 重組飛機細節影片(自製) | 暖色室內打燈"
+    },
+    {
+      "scene_id": 13,
+      "time_range": "38-44",
+      "purpose": "創造的過程三:火箭失敗與重新點火",
+      "visual_plan": "火箭爆炸煙火,人在廢墟中重新組裝,營火在身後燃燒,象徵不滅的創造精神",
+      "narration": "(music: Rains Will Fall)",
+      "subtitle": "(無字卡)",
+      "shot_list": "火箭模型爆炸濃煙火光(2秒高速),人從煙霧走出衣沾塵(1秒),在廢墟(散落零件、焦黑金屬)重組火箭(3秒),營火在身後2-3公尺燃燒,工具撞擊聲,6秒,暖色搖曳強調決心",
+      "asset_needs": "火箭爆炸特效(自製合成或特效庫,白煙橙火) | 廢墟零件背景(自製或舊金屬攝影) | 人物走出與重組影片(自製) | 營火後景光源(自製) | Foley 工具擊打音(自製或CC音效庫)"
+    },
+    {
+      "scene_id": 14,
+      "time_range": "44-50",
+      "purpose": "創造的過程四:工作台,process = soul 的被磨損的手與指紋",
+      "visual_plan": "工作台上鑿子雕刻木頭、焊接火花、手寫筆記;黑暗中定焦特寫磨損的雙手、粗糙指紋、老繭細節,象徵創造過程本身就是靈魂,營火光影搖曳",
+      "narration": "(music: Rains Will Fall)",
+      "subtitle": "(無字卡)",
+      "shot_list": "從明亮工作台切入黑暗特寫:鑿子雕木(1秒火花)、焊接火光(1秒)、手寫筆記(1秒),切到黑暗雙手特寫(2.5秒):磨損手掌、粗糙指紋、老繭在微弱營火光下清晰,光線搖曳呼吸感,營火聲漸入,音樂漸淡,6秒,重點:手等於靈魂、過程本身就是藝術",
+      "asset_needs": "工作台鑿刻與焊接影片(自製4K,火花清晰) | 雙手特寫微距(自製,指紋老繭放大) | 黑暗背景(純黑或深棕) | 營火微光 overlay | 營火聲素材(自製或CC)"
+    },
+    {
+      "scene_id": 15,
+      "time_range": "50-56",
+      "purpose": "創造的過程持續,人與營火的關係",
+      "visual_plan": "多個創造場景蒙太奇:手織布、手畫線條、手彈樂器,營火始終在視野邊緣,音樂開始漸淡",
+      "narration": "(music: Rains Will Fall, gradually fading)",
+      "subtitle": "(無字卡)",
+      "shot_list": "蒙太奇快速連接創造場景(6秒):織布機手指穿梭(1.5秒)、素描筆觸(1秒)、彈樂器(1.5秒,音樂漸淡貫穿),營火在視野邊緣多景層次,切換對應音樂拍點,手永遠在焦點中心,暖色一致,象徵創造多面性",
+      "asset_needs": "織布特寫(自製或公共領域手工藝) | 素描手繪特寫(自製) | 樂器演奏特寫(自製或CC) | 多景營火背景 | 蒙太奇過場(fade/dissolve)"
+    },
+    {
+      "scene_id": 16,
+      "time_range": "56-59",
+      "purpose": "回歸鍵盤,人類奪回最後一個 prompt",
+      "visual_plan": "人的手放上鍵盤,營火聲成為唯一背景音,字卡 Humanity is the prompt 出現,光線從暖轉向中性",
+      "narration": "(campfire sound, music fading)",
+      "subtitle": "Humanity is the prompt.",
+      "shot_list": "黑背景中雙手俯視緩慢靠近鍵盤(2秒),指尖輕放按鍵特寫(1秒),營火聲為唯一背景音;字卡 Humanity is the prompt. 逐字白色浮現(2秒),光線暖橙漸轉中性灰白(由人類掌控),3秒,張力:人手與鍵盤重新接觸等於奪回主權",
+      "asset_needs": "人手放上鍵盤影片(自製俯視高幀率,動作緩慢) | 鍵盤特寫(自製,黑鍵盤反光) | 字卡排版(Humanity is the prompt. 等寬白字) | 營火聲素材 | 燈光色溫漸層特效"
+    },
+    {
+      "scene_id": 17,
+      "time_range": "59-60",
+      "purpose": "結尾,題目揭示",
+      "visual_plan": "畫面漸黑,字卡 The Last Prompt 簡潔出現,營火聲完全消退",
+      "narration": "(silence)",
+      "subtitle": "The Last Prompt",
+      "shot_list": "營火聲完全消退,字卡 The Last Prompt 簡潔出現中央(黑底白大字,簡潔字型),光線全黑,1秒後字卡漸隱 fade to black,末秒無聲,1秒,張力:唯一保留下的是這句話",
+      "asset_needs": "字卡排版(The Last Prompt 簡潔白字大號) | 純黑背景 | 淡出動畫 | 結尾黑卡(靜止1-2幀)"
+    }
+  ],
+  "voice_tone": "克制、冷靜到暖,遵循視覺韻律",
+  "visual_style": "冷色數位轉暖色人文;分割線銳利轉柔和。Part 1-3 冷藍與紫色調(冰色光譜、螢幕光污),AI 介面極簡優雅、反差銳利,人物與環境混沌破裂;Part 4-5 暖橙紅(營火、自然光譜),聚焦磨損與過程細節,光影溫柔搖曳。剪輯踩拍精準,視覺節奏隨音樂加速再放緩。克制、寧少勿多:空白大於填滿,靜默大於喧囂。",
+  "asset_list": [
+    "石器工具特寫(自製或公共領域)",
+    "草稿紙塗改照片(自製手寫)",
+    "黑板半算公式圖(自製或教科書圖)",
+    "紙飛機墜落測試(自製影片)",
+    "火箭爆炸合成素材(自製高速或特效庫CC)",
+    "工作台磨損雙手特寫(自製)",
+    "焊接火花(自製或開放授權)",
+    "織布纖手影片(自製或公共領域手工藝)",
+    "營火溫暖全景(自製或公共領域)",
+    "鍵盤俯視圖(自製)",
+    "冷色AI介面範本(自製動態)",
+    "游標脈動特效(自製或免費特效軟體)",
+    "Kevin MacLeod CC-BY:Voxel Revolution + Rains Will Fall"
+  ]
+}

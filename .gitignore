@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+handoff/_staging.txt
+.DS_Store
+
+# 原始素材(來源連結已在 outputs/asset_sources.md,且已內嵌進最終影片)— 不上傳,省空間、避免轉散第三方截圖
+Assets/
+songs/
+
+# 根目錄的影片副本(正式檔在 outputs/final_video.mp4)
+AIxHuman.mp4
